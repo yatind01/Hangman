@@ -1,2 +1,2 @@
 # Hangman
-Simple Hangman game with gui written in java
+Classic Hangman game with gui written in java
